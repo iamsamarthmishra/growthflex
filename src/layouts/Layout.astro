@@ -1,0 +1,29 @@
+---
+import { ViewTransitions } from 'astro:transitions';
+import Footer from '../components/Footer.astro';
+import Navbar from '../components/Navbar.astro';
+import "../styles/global.css";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Growthflexstudios description" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Growthflex studios</title>
+    <meta
+      name="description"
+      content="GrowthFlex Studios: Transforming businesses into digital superstars with expert web development, app development, SEO, social media management, customer support, and ad marketing services. Elevate your online presence and achieve success with our comprehensive digital solutions."
+    />
+	<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+  <ViewTransitions />
+  </head>
+  <body class="bg-white font-SpaceGrotesk">
+    <Navbar />
+    <slot />
+    <Footer/>
+  </body>
+</html>

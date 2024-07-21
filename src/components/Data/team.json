@@ -1,0 +1,54 @@
+{
+    "team":
+    [
+        {
+            "title": "Hibaoverseas",
+            "name": "Mohd. Faizan",
+            "description": "I had a fantastic experience with Growth Flex Studios. They created a great website for me and were incredibly helpful and friendly throughout the process. Highly recommend their web development services!",
+            "profile": "/team/c1.png",
+            "link": "/"
+        },
+        {
+            "title": "Indian Photography",
+            "name": "Alpher Smith",
+            "description": "My social media presence has never been better, and as a photographer, I wanted to stand out. Thanks to Samarth and GrowthFlex Studios for their amazing content creation and social media management. They've transformed my online brand, boosting my engagement and attracting new clients effortlessly.",
+            "profile": "/team/c2.png",
+            "link": "/"
+        },
+        {
+            "title": "Lassi day cafe",
+            "name": "Yashwanth Jagarlamudi",
+            "description": "Our ad campaigns have never been more effective! GrowthFlex Studios took our marketing strategy to the next level. Their expertise in ad creation and targeting has significantly increased our customer base and boosted our sales. We couldn't be happier with the results!",
+            "profile": "/team/c3.png",
+            "link": "/"
+        }
+
+    ],
+    "process":
+    [
+        {
+            "label": "Consultation",
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+        },
+        {
+            "label": "Research",
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+        },
+        {
+            "label": "Implementation",
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+        },
+        {
+            "label": "Optimization",
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+        },
+        {
+            "label": "Reporting",
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+        },
+        {
+            "label": "Improvement",
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+        }
+    ]
+}

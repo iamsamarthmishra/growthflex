@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name1": "Social Media",
+        "name2": "Management",
+        "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
+        "arrow": "./services/ag.svg",
+        "link": "./",
+        "image": "./services/smm.svg"
+    },
+    {
+        "id": 2,
+        "name1": "Content",
+        "name2": "Creation",
+        "background": "h-[340px] p-14 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
+        "arrow": "./services/ag.svg",
+        "link": "./",
+        "image": "./services/concer.svg"
+    },
+    {
+        "id": 3,
+        "name1": "Website & App",
+        "name2": "Developemt",
+        "background": "h-[340px] p-14 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
+        "arrow": "./services/aw.svg",
+        "link": "./",
+        "image": "./services/dev.svg"
+    },
+    {
+        "id": 4,
+        "name1": "Ads",
+        "name2": "Marketing",
+        "background": "h-[340px] p-14 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
+        "arrow": "./services/ag.svg",
+        "link": "./",
+        "image": "./services/mar.svg"
+    },
+    {
+        "id": 5,
+        "name1": "Search Engine",
+        "name2": "Optimization",
+        "background": "h-[340px] p-14 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
+        "arrow": "./services/ag.svg",
+        "link": "./",
+        "image": "./services/seo.svg"
+    },
+    {
+        "id": 6,
+        "name1": "Customer",
+        "name2": "Support",
+        "background": "h-[340px] p-14 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
+        "arrow": "./services/aw.svg",
+        "link": "./",
+        "image": "./services/sup.svg"
+    }
+]
