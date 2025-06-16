@@ -5,25 +5,45 @@
             "title": "Hibaoverseas",
             "name": "Mohd. Faizan",
             "description": "I had a fantastic experience with Growth Flex Studios. They created a great website for me and were incredibly helpful and friendly throughout the process. Highly recommend their web development services!",
-            "profile": "/team/c1.png",
+            "profile": "/team/av1.jpg",
             "link": "/"
         },
         {
             "title": "Indian Photography",
             "name": "Alpher Smith",
             "description": "My social media presence has never been better, and as a photographer, I wanted to stand out. Thanks to Samarth and GrowthFlex Studios for their amazing content creation and social media management. They've transformed my online brand, boosting my engagement and attracting new clients effortlessly.",
-            "profile": "/team/c2.png",
+            "profile": "/team/av2.jpg",
             "link": "/"
         },
         {
             "title": "Lassi day cafe",
             "name": "Yashwanth Jagarlamudi",
             "description": "Our ad campaigns have never been more effective! GrowthFlex Studios took our marketing strategy to the next level. Their expertise in ad creation and targeting has significantly increased our customer base and boosted our sales. We couldn't be happier with the results!",
-            "profile": "/team/c3.png",
+            "profile": "/team/av1.jpg",
             "link": "/"
-        }
-
-    ],
+        },
+    {
+      "title": "Aero Armor",
+      "name": "Ritesh Kapoor",
+      "link": "https://linkedin.com/in/riteshkapoor", 
+      "profile": "/team/av1.jpg", 
+      "description": "Working with GrowthFlex Studios was a turning point for Aero Armor. Samarth and his team completely revamped our online presence with a powerful and intuitive website. Their attention to design, functionality, and storytelling helped us connect with a broader audience and attract key partnerships. True professionals!"
+    },
+    {
+      "title": "Molecule55",
+      "name": "Neha Bansal",
+      "link": "https://linkedin.com/in/nehabansal", 
+      "profile": "/team/av3.jpg",
+      "description": "GrowthFlex Studios didn't just build a site—they built a brand story. For a science-driven startup like Molecule55, it was critical to strike a balance between technical depth and accessibility. Their team nailed it. We’ve received amazing feedback from investors and customers alike."
+    },
+    {
+      "title": "Pohawala",
+      "name": "Arjun Mehra",
+      "link": "https://linkedin.com/in/arjunmehra",
+      "profile": "/team/av2.jpg",
+      "description": "Our growth at Pohawala was accelerated significantly after collaborating with GrowthFlex Studios. Their ad creatives, targeting strategy, and content campaigns drove real conversions. The ROI from their digital marketing service has been nothing short of outstanding."
+    }
+  ],
     "process":
     [
         {

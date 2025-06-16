@@ -34,9 +34,10 @@ import Topic from "./Topic.astro";
         <div class="flex-col justify-start items-start gap-7 flex">
             <div class="self-stretch justify-start items-start inline-flex">
                 <div class="grow shrink basis-0 justify-start items-center gap-8 flex">
-                    <div class="h-[102.82px] left-0 top-0 relative">
-                        <img src={profile} alt={name}/>
-                    </div>
+                    <div class="w-[96px] h-[96px] overflow-hidden rounded-full">
+    <img src={profile} alt={name} class="w-full h-full object-cover"/>
+</div>
+
                     <div class="flex-col justify-end items-start inline-flex">
                         <div class="text-lg font-normal">{title}</div>
                         <div class="text-xl font-medium">{name}</div>
